@@ -1,6 +1,6 @@
 # Craft-IT Coding Challenge
 
-_Weekend, December 09-12 2016_
+_Weekend, Dec 09 to Dec 11 2016_
 
 __Receive €150 for a weekend of programming!__
 
