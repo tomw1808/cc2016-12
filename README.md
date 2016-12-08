@@ -52,7 +52,7 @@ It will download quite some data, so make sure you are not on a capped connectio
 
 
 ## About us
-Craft IT is a small boutique web development company located in Graz, Austria. We are passionate full-stack developers and serve international clients, with a focus on financial and analytics applications. We do work with a number of APIs from e.g. cloud accounting providers. We mostly do very custom tailored software which (more often than not) exceeds the possibilities of existing frameworks and libraries.
+[Craft IT](http://www.craft-it.co/) is a small boutique web development company located in Graz, Austria. We are passionate full-stack developers and serve international clients, with a focus on financial and analytics applications. We do work with a number of APIs from e.g. cloud accounting providers. We mostly do very custom tailored software which (more often than not) exceeds the possibilities of existing frameworks and libraries.
 
 We are looking for new team-members who love hands-on, enjoy great teams, long term projects, a fun work-environment, tabletennis and coffee (not a must, we also have tee).
 
